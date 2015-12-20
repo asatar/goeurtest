@@ -1,0 +1,9 @@
+gogeo\impl\JsonCityToCsvConverter$JsonCityFields.class
+gogeo\impl\FileResultWriter.class
+gogeo\TaskStarter.class
+gogeo\impl\UrlCityReader.class
+gogeo\api\ResultWriter.class
+gogeo\api\ResultConverter.class
+gogeo\CityInformationProcessor.class
+gogeo\api\CityReader.class
+gogeo\impl\JsonCityToCsvConverter.class
